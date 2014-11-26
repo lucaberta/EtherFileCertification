@@ -4,10 +4,10 @@
 
 This script was developped during an Ethereum Hackathon hosted at the Geneva University on the 26 November 2014.
 
-### License: This work is licensed under a Creative Commons Attribution 4.0 International License available at http://creativecommons.org/licenses/by/4.0/.
-
-A contract 
+A contract
 A simple HTML5 and javascript page uploads any selected file locally. The file is opened as a string and a Hash is generated. The Hash of the file is sent by the javascript to a local running instance of ethereum calling the contract.
+
+### License: This work is licensed under a Creative Commons Attribution 4.0 International License available at http://creativecommons.org/licenses/by/4.0/.
 
 ## Prerequisites:
 
