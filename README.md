@@ -23,14 +23,13 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Instruction to install:
 
-1. Create the contract
-Copy paste 
-2. install files in the "html" folder locally or on the webserver
-3. Modify the index.html with the Ethereum Contract adress
+1. install files in the "html" folder locally or on the webserver
+2. Modify the index.html with the Ethereum Contract adress
 
 ## Running the script
 
 - Launch the alethzero client
+- copy paste the EtherFileCertification.cll into the Transact window and execute the contract
 - Paste the link of the html page in the alethzero built-in browser (either a local or an internet link)
 - Upload a file
 
