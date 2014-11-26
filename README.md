@@ -2,6 +2,8 @@
 
 ## Summary
 
+On-the-fly file certification over Ethereum.
+
 Upload, certify and verify a file on the Ethereum blockchain through a simple web-page.
 
 
