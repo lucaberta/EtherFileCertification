@@ -16,17 +16,23 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Prerequisites:
 
-- A working webserver
-- A working instance of ethereum
+- A working instance of alethzero ethereum client
+- (optional) a working Webserver
 
 ## Instruction to install:
 
 1. Create the contract
 Copy paste 
-2. install files in the "html" folder on the webserver
+2. install files in the "html" folder locally or on the webserver
 3. Modify the index.html with the Ethereum Contract adress
 
+## Running the script
+
+- Launch the alethzero client
+- Paste the link of the html page in the alethzero built-in browser (either a local or an internet link)
+- Upload a file
+
 ## External ressources
-- Ethereum project https://github.com/ethereum/
+- Ethereum project https://github.com/ethereum/cpp-ethereum
 - Bootstrap http://getbootstrap.com/
 - crypto-js https://code.google.com/p/crypto-js/
