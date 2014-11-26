@@ -1,7 +1,11 @@
 # Name: EtherFileCertification
 
-## Description: Authenticated and validate the upload of file on the ethereum blockchain
+## Summary
 
+Upload, certify and verify a file on the Ethereum blockchain through a simple web-page.
+
+
+#Context
 This script was developped during an Ethereum Hackathon hosted at the Geneva University on the 26 November 2014.
 
 A contract
